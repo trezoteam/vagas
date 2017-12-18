@@ -1,3 +1,5 @@
+![avatar](https://raw.githubusercontent.com/trezoteam/vagas/master/identidade-nova-azul.png)
+
 # Trezo - Vagas
 Espaço para a divulgação de vagas para desenvolvedores via **issues** do Github.
 
